@@ -30,10 +30,10 @@ Semester 1 Analysis: Deep dive into subject-wise performance.
 ![](screenshots_of_dashboard/homepage.png)
 **All semesters result dashboards**
 <p align="center">
-  <img src="screenshots_of_dashboards/semester_1.png" width="200"/>
-  <img src="screenshots_of_dashboards/semester_2.png" width="200"/>
-  <img src="screenshots_of_dashboards/semester_3.png" width="200"/>
-  <img src="screenshots_of_dashboards/semester_4.png" width="200"/>
+  <img src="screenshots_of_dashboard/semester_1.png" width="200"/>
+  <img src="screenshots_of_dashboard/semester_2.png" width="200"/>
+  <img src="screenshots_of_dashboard/semester_3.png" width="200"/>
+  <img src="screenshots_of_dashboard/semester_4.png" width="200"/>
 </p>
 
 **How to Use**
