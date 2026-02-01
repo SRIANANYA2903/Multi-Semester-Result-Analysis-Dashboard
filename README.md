@@ -26,10 +26,11 @@ Subject-wise GPA: Dynamic average calculation based on weighted grade points.
 **Dashboard Preview**
 
 Semester 1 Analysis: Deep dive into subject-wise performance.
-![Dashboard Overview]Screenshot 2026-01-31 193823.png
+![Multi-Semester-Result-Analysis-Dashboard](Multi-Semester-Result-Analysis-Dashboard/screenshots_of_dashboard
+/homepage.png)
 
+**How to Use**
 
-How to Use
 Download the .pbix file from this repository.
 Open it using Power BI Desktop.
 Navigate through the different tabs to explore the interactive visuals
