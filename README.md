@@ -26,7 +26,7 @@ Subject-wise GPA: Dynamic average calculation based on weighted grade points.
 **Dashboard Preview**
 
 Semester 1 Analysis: Deep dive into subject-wise performance.
-![Dashboard Overview](Screenshot 2026-01-31 193823.png)
+![Dashboard Overview]Screenshot 2026-01-31 193823.png
 
 
 How to Use
